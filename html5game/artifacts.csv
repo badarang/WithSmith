@@ -1,0 +1,22 @@
+name_english,name_korean,effect,effect apply,description_korean,description_english
+Wildboar's Horn,멧순이의 뿔,BODY_BMG+200,1,바디 데미지 + 200,Body Damage + 200
+Chipmunk's Helmet,다람쥐의 헬멧,EVASION+20,1,회피율 + 20%,Evasion Rate + 20%
+Treant's Fragment,나무정령의 파편,special,0,회복 능력이 생깁니다.,Heal every certain time
+Queenbee's Sting,통통벌의 침,special,0,벌침이 함께합니다.,It helps player
+,암살자의 두건,special,0,적의 뒤를 가격할 때 추가 피해를 입힙니다.,
+,광전사의 투구,special,0,체력이 낮을수록 공격 속도가 상승합니다.,
+,거인의 반지,special,0,"투사체의 크기가 커지고, 넉백 효과가 커집니다.",
+,하이에나의 이빨,special,0,흡혈 성공 시 골드를 획득합니다.,
+,전사의 갑옷,special,0,적 처치 시 최대 체력이 증가합니다.,
+,전사의 검,special,0,적 처치 시 공격력이 영구적으로 증가합니다.,
+,기사의 방패,special,0,적 처치 시 일정 확률로 쉴드를 획득합니다.,
+,메두사의 머리,special,0,투사체 공격의 속도가 100% 감소합니다. 공격력이 40% 증가합니다.,
+,저주받은 검,special,0,공격력이 50% 증가합니다.,
+,저주받은 활,special,0,공격력이 50% 감소합니다. 공격속도가 50% 증가합니다.,
+,저주받은 반지,special,0,공격력이 50% 감소합니다. 치명타 피해량이 3배 증가합니다.,
+,저주받은 갑옷,special,0,공격력이 50% 감소합니다. 피해를 입었을 때 모든 적에게 100의 피해를 입힙니다.,
+,저주받은 신발,special,0,공격력이 50% 감소합니다. 이동속도가 50% 증가합니다.,
+Babywitch's Statue,아기 마녀 동상,special,0,적 처치 시 먼지 정령이 소환됩니다.,
+,아기 마녀 그림,special,0,체력이 10% 이하인 적을 처형합니다.,
+,아기 마녀 인형,special,0,적 처치 시 작은 폭발을 일으킵니다.,
+,거지의 자화상,special,0,골드를 적게 가지고 있을 수록 치명타율이 증가합니다.,
